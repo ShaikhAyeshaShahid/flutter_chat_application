@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "495538922433",
+    "project_id": "chat-fbc2c",
+    "storage_bucket": "chat-fbc2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495538922433:android:b953c2d6c2db1816f34540",
+        "android_client_info": {
+          "package_name": "com.example.flutter_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495538922433-0i89chdqmoochvmc4a0ilbdhsm8jkaqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_demo",
+            "certificate_hash": "659707335ad4cb3deb8498ce17f0b13afebb7f4f"
+          }
+        },
+        {
+          "client_id": "495538922433-e11askv695grsfd27klo960ghs9lgenl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VYdd9IuhZ0A3gdWAY0WQOy-Wq8sYZH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495538922433-e11askv695grsfd27klo960ghs9lgenl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
